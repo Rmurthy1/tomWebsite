@@ -1,0 +1,7 @@
+notes about toms website:
+
+- remove copywrite
+- ask him what kind of headings he wants for the thumbnails that will lead into his full article
+- ask him if how he wants the pictures formatted on the site, should they sit at the top/bottom/middle/text around?
+	- hh article has two images now
+- change bootstrab core js on the bottom of every website so that it loads the proper js libs
