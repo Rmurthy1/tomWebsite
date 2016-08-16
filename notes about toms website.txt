@@ -6,3 +6,5 @@ notes about toms website:
 	- hh article has two images now
 - change bootstrab core js on the bottom of every website so that it loads the proper js libs
 - koRnberg lab(no s)
+
+TomSite2016
