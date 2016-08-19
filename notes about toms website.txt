@@ -8,3 +8,11 @@ notes about toms website:
 - koRnberg lab(no s)
 
 TomSite2016
+
+
+home | about us | lab projects | publications | videos | members
+
+videos page for the two videos that tom gave me.
+
+members page should be something else with the pictures and the names, maybe leave a space for more info.
+
