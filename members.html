@@ -186,14 +186,56 @@
   </tbody>
 </table>
 </div>
+
+<style>
+.padding{
+  padding-left: 30%;
+  padding-right: 30%;
+}
+/* Extra Small */
+@media(max-width:767px){
+  .padding{
+    padding-left: 0%
+    padding-right: 0%
+  }
+}
+
+/* Small */
+@media(min-width:768px) and (max-width:991px){
+  .padding{
+    padding-left: 0%
+    padding-right: 0%
+  }
+}
+
+/* Medium */
+@media(min-width:992px) and (max-width:1199px){
+  .padding{
+    padding-left: 0%
+    padding-right: 0%
+  }
+}
+
+/* Large */
+@media(min-width:1200px){
+  .padding{
+  padding-left: 30%;
+  padding-right: 30%;
+}
+}
+
+</style>
+
 <h3 class = "text-center"> Former Lab Members </h3>
 
 <div class="container">
+<div class = "padding">
       <table class="table table-striped">
     <thead>
       <tr>
-        <th class="col-md-9">Name</th>
+        <th class="col-md-3">Name</th>
         <th class="col-md-3">Title</th>
+        
         
 
         </tr>
@@ -201,13 +243,14 @@
     <tbody>
 
       <tr> 
- <td class = "col-md-9"> Louise Liao
+ <td class = "col-md-3"> Louise Liao
 </td>
 <td class = "col-md-3">Postdoc
 </td>
+
 </tr>
 <tr> 
- <td class = "col-md-9"> Brian Craine
+ <td class = "col-md-3"> Brian Craine
 </td>
 <td class = "col-md-3">Postdoc
 </td>
@@ -559,6 +602,7 @@
 
     </tbody>
   </table>
+  </div>
 </div>
 
 <!--
